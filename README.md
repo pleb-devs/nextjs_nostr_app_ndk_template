@@ -1,6 +1,6 @@
 # Nostr App Template For Building Nostr Apps with NDK + Next.JS
 
-We'll leverage Next.js and the [NDK (Nostr Dev Kit)](https://github.com/nostr-dev-kit/ndk)to create a template.
+We'll leverage Next.js and the [NDK (Nostr Dev Kit)](https://github.com/nostr-dev-kit/ndk) to create a template.
 
 # Table of Contents
 
@@ -29,7 +29,7 @@ Then, provide the following answers to the proceeding prompts.
 
 ![alt text](image.png)
 
-We choose yes for eslint to improve readability of our code and yes to tailwind to make building out your UI efficient.
+We choose yes for eslint to improve readability of our code, and yes to tailwind to make building out your UI efficient.
 
 ## Install NDK
 
